@@ -18,4 +18,4 @@ const STEPS = COLORS.map((_, index) => index);
 const SPEED = 1;
 const EXPLODING_SPEED = 10;
 
-const BUBBLE_MODE = true;
+let BUBBLE_MODE = true;
